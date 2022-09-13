@@ -26,6 +26,7 @@ footer {
   background-color: #15bb0f;
   padding: 1rem;
   color: black;
+  
 }
 .navList{
   list-style-type: none;
@@ -36,6 +37,7 @@ footer {
   height:20%;
   border-radius: 50%;
   border: 3px solid #15bb0f;
+  rotate: -40deg
 }
 .icons{
   width: 2rem;
